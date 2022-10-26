@@ -1,0 +1,16 @@
+@import '~normalize.css';
+@font-face {
+  font-family: 'icons';
+  src: url('../fonts/icons.ttf') format('truetype');
+}
+
+.container{
+  padding: 10px;
+  margin-top: 10px;
+  width: 1000px;
+}
+body{
+  height: 100vh;
+  width: 100vw;
+  background-image: url(./../images/main/Giant_Panda.jpg);
+}
